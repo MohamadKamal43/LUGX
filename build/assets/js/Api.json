@@ -1,0 +1,727 @@
+[
+  {
+    "id": 1,
+    "title": "Tarisland",
+    "category": "RPG",
+    "price": 30,
+    "originalPrice": 35,
+    "rating": 4.2,
+    "description": "A cross-platform MMORPG developed by Level Infinite and Published by Tencent.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2024-06-22",
+    "publisher": "Tencent",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/582/thumbnail.jpg",
+      "https://www.freetogame.com/g/582/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/582/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "45 GB",
+    "genre": "MMORPG"
+  },
+  {
+    "id": 2,
+    "title": "Overwatch 2",
+    "category": "Action",
+    "price": 20,
+    "originalPrice": 30,
+    "rating": 4.5,
+    "description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2022-10-04",
+    "publisher": "Activision Blizzard",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/540/thumbnail.jpg",
+      "https://www.freetogame.com/g/540/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "60 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 3,
+    "title": "PUBG: BATTLEGROUNDS",
+    "category": "Action",
+    "price": 40,
+    "originalPrice": 45,
+    "rating": 4.3,
+    "description": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2022-01-12",
+    "publisher": "KRAFTON, Inc.",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/516/thumbnail.jpg",
+      "https://www.freetogame.com/g/516/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "75 GB",
+    "genre": "Battle Royale"
+  },
+  {
+    "id": 4,
+    "title": "Enlisted",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.1,
+    "description": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software's MMO squad-based shooter Enlisted.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2021-04-08",
+    "publisher": "Gaijin Entertainment",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/508/thumbnail.jpg",
+      "https://www.freetogame.com/g/508/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/508/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "35 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 5,
+    "title": "Forge of Empires",
+    "category": "Strategy",
+    "price": 25,
+    "originalPrice": 40,
+    "rating": 4.0,
+    "description": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+    "city": "Global",
+    "platform": "Web Browser",
+    "releaseDate": "2012-04-17",
+    "publisher": "InnoGames",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Premium Game",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/345/thumbnail.jpg",
+      "https://www.freetogame.com/g/345/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "25 GB",
+    "genre": "Strategy"
+  },
+  {
+    "id": 6,
+    "title": "FragPunk",
+    "category": "Action",
+    "price": 59,
+    "originalPrice": 79,
+    "rating": 4.4,
+    "description": "A free-to-play 5v5 hero shooter that uses cards to modify matches.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2025-03-06",
+    "publisher": "Bad Guitar Studio",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Premium Game",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/604/thumbnail.jpg",
+      "https://www.freetogame.com/g/604/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/604/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "45 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 7,
+    "title": "Throne And Liberty",
+    "category": "RPG",
+    "price": 30,
+    "originalPrice": 50,
+    "rating": 4.6,
+    "description": "A free-to-play multi-platform MMORPG from NCSoft and Amazon Games.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2024-10-01",
+    "publisher": "Amazon Games",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/590/thumbnail.jpg",
+      "https://www.freetogame.com/g/590/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/590/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "90 GB",
+    "genre": "MMORPG"
+  },
+  {
+    "id": 8,
+    "title": "Fall Guys",
+    "category": "Action",
+    "price": 20,
+    "originalPrice": 30,
+    "rating": 4.2,
+    "description": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2020-08-04",
+    "publisher": "Mediatonic",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/523/thumbnail.jpg",
+      "https://www.freetogame.com/g/523/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "15 GB",
+    "genre": "Battle Royale"
+  },
+  {
+    "id": 9,
+    "title": "Game Of Thrones Winter Is Coming",
+    "category": "Strategy",
+    "price": 40,
+    "originalPrice": 50,
+    "rating": 4.3,
+    "description": "A free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series.",
+    "city": "Global",
+    "platform": "Web Browser",
+    "releaseDate": "2019-11-14",
+    "publisher": "GTArcade",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/340/thumbnail.jpg",
+      "https://www.freetogame.com/g/340/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/340/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "51 GB",
+    "genre": "Strategy"
+  },
+  {
+    "id": 10,
+    "title": "Elvenar",
+    "category": "Strategy",
+    "price": 35,
+    "originalPrice": 50,
+    "rating": 4.1,
+    "description": "A browser based city-building strategy MMO set in the fantasy world of Elvenar.",
+    "city": "Global",
+    "platform": "Web Browser",
+    "releaseDate": "2015-04-08",
+    "publisher": "InnoGames",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Premium Game",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/347/thumbnail.jpg",
+      "https://www.freetogame.com/g/347/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/347/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "31 GB",
+    "genre": "Strategy"
+  },
+  {
+    "id": 11,
+    "title": "Neverwinter",
+    "category": "RPG",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.4,
+    "description": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2013-12-06",
+    "publisher": "Perfect World Entertainment",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/11/thumbnail.jpg",
+      "https://www.freetogame.com/g/11/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "59 GB",
+    "genre": "MMORPG"
+  },
+  {
+    "id": 12,
+    "title": "Lost Ark",
+    "category": "RPG",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.5,
+    "description": "Smilegate's free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2022-02-11",
+    "publisher": "Amazon Games",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/517/thumbnail.jpg",
+      "https://www.freetogame.com/g/517/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "13 GB",
+    "genre": "ARPG"
+  },
+  {
+    "id": 13,
+    "title": "Genshin Impact",
+    "category": "RPG",
+    "price": 32,
+    "originalPrice": 40,
+    "rating": 4.8,
+    "description": "If you've been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you're going to want to check out miHoYo's Genshin Impact.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2020-09-28",
+    "publisher": "miHoYo",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/475/thumbnail.jpg",
+      "https://www.freetogame.com/g/475/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "120 GB",
+    "genre": "Action RPG"
+  },
+  {
+    "id": 14,
+    "title": "Crossout",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.2,
+    "description": "A post-apocalyptic MMO vehicle combat game!",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2017-05-30",
+    "publisher": "Targem",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/5/thumbnail.jpg",
+      "https://www.freetogame.com/g/5/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "38 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 15,
+    "title": "World of Warships",
+    "category": "Action",
+    "price": 45,
+    "originalPrice": 65,
+    "rating": 4.3,
+    "description": "A 3D free to play naval action-themed MMO from the creators of World of Tanks!",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2015-07-02",
+    "publisher": "Wargaming",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Premium Game",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/9/thumbnail.jpg",
+      "https://www.freetogame.com/g/9/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "60 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 16,
+    "title": "War Thunder",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.1,
+    "description": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2013-08-15",
+    "publisher": "Gaijin Entertainment",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/12/thumbnail.jpg",
+      "https://www.freetogame.com/g/12/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/12/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "90 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 17,
+    "title": "World of Tanks",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.3,
+    "description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2011-04-12",
+    "publisher": "Wargaming",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/2/thumbnail.jpg",
+      "https://www.freetogame.com/g/2/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/2/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "75 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 18,
+    "title": "Marvel Rivals",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.7,
+    "description": "A free-to-play superhero team shooter from NetEase.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2024-12-06",
+    "publisher": "NetEase",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/599/thumbnail.jpg",
+      "https://www.freetogame.com/g/599/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/599/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "35 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 19,
+    "title": "Valorant",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.6,
+    "description": "Test your mettle in Riot Games' character-based FPS shooter Valorant.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2020-06-02",
+    "publisher": "Riot Games",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/466/thumbnail.jpg",
+      "https://www.freetogame.com/g/466/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "25 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 20,
+    "title": "Call Of Duty: Warzone",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.4,
+    "description": "A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2020-03-10",
+    "publisher": "Activision",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/452/thumbnail.jpg",
+      "https://www.freetogame.com/g/452/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "125 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 21,
+    "title": "Apex Legends",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.4,
+    "description": "A free-to-play strategic battle royale game featuring 60-player matches and team-based play.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2019-02-04",
+    "publisher": "Electronic Arts",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/23/thumbnail.jpg",
+      "https://www.freetogame.com/g/23/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/23/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "90 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 22,
+    "title": "Fortnite",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.5,
+    "description": "A free-to-play, standalone mode of Epic Game's Fortnite.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2017-09-26",
+    "publisher": "Epic Games",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/57/thumbnail.jpg",
+      "https://www.freetogame.com/g/57/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/57/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "120 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 23,
+    "title": "Warframe",
+    "category": "Action",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 4.7,
+    "description": "A cooperative free-to-play third person online action shooter set in an stunning sci-fi world.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2013-03-25",
+    "publisher": "Digital Extremes",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/3/thumbnail.jpg",
+      "https://www.freetogame.com/g/3/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/3/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "35 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 24,
+    "title": "The First Descendant",
+    "category": "Action",
+    "price": 25,
+    "originalPrice": 45,
+    "rating": 4.3,
+    "description": "A free-to-play third-person co-op looter shooter developed and published by Nexon.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2024-07-02",
+    "publisher": "Nexon",
+    "ageRating": "M (Mature 17+)",
+    "features": [
+      "Premium Game",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/583/thumbnail.jpg",
+      "https://www.freetogame.com/g/583/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/583/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "65 GB",
+    "genre": "Shooter"
+  },
+  {
+    "id": 25,
+    "title": "Project Apidom",
+    "category": "Strategy",
+    "price": 20,
+    "originalPrice": 30,
+    "rating": 4.0,
+    "description": "A free-to-play apocalyptic extraction RPG with MOBA-like combat.",
+    "city": "Global",
+    "platform": "PC (Windows)",
+    "releaseDate": "2024-03-29",
+    "publisher": "Breach.gg",
+    "ageRating": "T (Teen)",
+    "features": [
+      "Free to Play",
+      "Online Multiplayer",
+      "Regular Updates",
+      "Cross-Platform Support",
+      "Competitive Mode"
+    ],
+    "images": [
+      "https://www.freetogame.com/g/579/thumbnail.jpg",
+      "https://www.freetogame.com/g/579/thumbnail.jpg"
+    ],
+    "thumbnail": "https://www.freetogame.com/g/579/thumbnail.jpg",
+    "inStock": true,
+    "downloadSize": "42 GB",
+    "genre": "MOBA"
+  }
+]
