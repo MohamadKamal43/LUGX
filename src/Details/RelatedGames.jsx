@@ -15,7 +15,7 @@ function RelatedGames() {
         </div>
         <div className="col-lg-6">
           <div className="main-button">
-            <Link to="/shop.html">View All</Link>
+            <Link to="/shop">View All</Link>
           </div>
         </div>
         <div className="col-lg col-sm-6 col-xs-12">
