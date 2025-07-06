@@ -7,7 +7,7 @@ function Footer() {
     <div className="container">
       <div className="col-lg-12">
         <p>
-          Copyright © 2048 LUGX Gaming Company. All rights reserved.
+          Copyright © 2025 LUGX Gaming Company. All rights reserved.
           &nbsp;&nbsp;{" "}
           <a rel="nofollow" href="https://templatemo.com" target="_blank">
             Designer: Mohamed Kamal

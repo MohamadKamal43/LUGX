@@ -91,7 +91,7 @@ function Cart() {
                 <div className="col-md-3">
                   <img
                     className="img-fluid"
-                    src={item.thumbnail || item.images[0] || 'assets/images/default-game.jpg'}
+                    src={item.images[0]}
                     alt={item.title}
                     style={cartStyles.gameImage}
                     onError={(e) => {
@@ -140,8 +140,7 @@ function Cart() {
                         <div className="btn-group" role="group">
                           <button 
                             onClick={() => updateItemQuantity(item.id, item.quantity - 1)} 
-                            className='btn btn-sm'
-                            disabled={item.quantity <= 1}
+                            className='btn btn-sm shakeAnimate'
                             style={{
                               backgroundColor: '#fff3cd',
                               border: '1px solid #ffeaa7',
@@ -153,7 +152,7 @@ function Cart() {
                           </button>
                           <button 
                             onClick={() => updateItemQuantity(item.id, item.quantity + 1)} 
-                            className='btn btn-sm'
+                            className='btn btn-sm mx-2 shakeAnimate'
                             style={{
                               backgroundColor: '#d1ecf1',
                               border: '1px solid #bee5eb',
@@ -165,13 +164,14 @@ function Cart() {
                           </button>
                           <button 
                             onClick={() => removeItem(item.id)} 
-                            className='btn btn-sm'
+                            className='btn btn-sm shakeAnimate'
                             title="Remove from cart"
                             style={{
                               backgroundColor: '#f8d7da',
                               border: '1px solid #f5c6cb',
                               color: '#721c24',
-                              borderRadius: '0 8px 8px 0'
+                              borderRadius: '0 8px 8px 0',
+                            
                             }}
                           >
                             <i className="fa fa-trash"></i>
@@ -211,7 +211,7 @@ function Cart() {
           <div className="cart-actions mt-4">
             <button 
               onClick={emptyCart} 
-              className="btn"
+              className="btn mb-2 shakeAnimate"
               disabled={items.length === 0}
               style={{
                 backgroundColor: '#f8d7da',
@@ -221,7 +221,7 @@ function Cart() {
                 padding: '10px 25px'
               }}
             >
-              <i className="fa fa-trash me-2"></i>
+              <i className="fa fa-trash me-2 continueBtn"></i>
               Clear Cart
             </button>
           </div>
@@ -257,7 +257,7 @@ function Cart() {
                 padding: '12px'
               }}
             >
-              <i className="fa fa-credit-card me-2"></i>
+              <i className="fa fa-credit-card me-2 continueBtn"></i>
               Proceed to Checkout
             </button>
             <Link 
@@ -272,7 +272,7 @@ function Cart() {
                 padding: '12px'
               }}
             >
-              <i className="fa fa-gamepad me-2"></i>
+              <i className="fa fa-gamepad me-2 continueBtn"></i>
               Continue Shopping
             </Link>
             

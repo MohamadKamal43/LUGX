@@ -20,7 +20,7 @@ function Banner() {
         <div className="col-lg-4 offset-lg-2">
           <div className="right-image">
             <img src="assets/images/banner-image.jpg" alt="" />
-            <span className="price">$22</span>
+            <span className="price bg-primary">$22</span>
             <span className="offer">-40%</span>
           </div>
         </div>

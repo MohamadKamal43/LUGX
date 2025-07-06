@@ -15,14 +15,14 @@ function Page(){
       <div className="row trending-box">
          <div className='col-md-10 m-auto mb-4 d-flex align-items-center justify-content-center flex-column'>
                             <input type="text" className='form-control m-2'  placeholder='Search' onChange={getValue}/>
-          <button role="button" className='btn text-light' style={{background:"#042b4c"}}>Search Now</button>
+          <button role="button" className='btn text-light search-btn' >Search Now</button>
                           </div>
           {data.map((item) => {
             return search == 0?(
               <div key={item.id} className="col-lg-4 col-md-6 col-sm-12 mb-4">
                 <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img 
                   src={item.images[0]} 
                   alt={item.title}
@@ -31,7 +31,7 @@ function Page(){
                     e.target.src = 'assets/images/default-game.jpg';
                   }}
                 />
-              </a>
+              </Link>
               <span className="price">
                 {item.price === 0 ? (
                   <span style={{color: '#fff', fontWeight: 'bold'}}>FREE</span>

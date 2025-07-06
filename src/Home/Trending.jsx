@@ -26,7 +26,7 @@ function Trending() {
           <div key={game.id} className="col-lg-3 col-md-6">
             <div className="item">
               <div className="thumb">
-                <a href="product-details.html">
+                <Link to="/details">
                   <img 
                     src={game.thumbnail || game.images[0] || 'assets/images/default-game.jpg'} 
                     alt={game.title}
@@ -35,7 +35,7 @@ function Trending() {
                       e.target.src = 'assets/images/default-game.jpg';
                     }}
                   />
-                </a>
+                </Link>
                 <span className="price">
                   {game.price === 0 ? (
                     <span style={{color: '#fff', fontWeight: 'bold'}}>FREE</span>

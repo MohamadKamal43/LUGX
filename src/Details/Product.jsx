@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router'
 
 function Product() {
   return (
@@ -30,9 +31,11 @@ function Product() {
               aria-describedby="quantity"
               placeholder={1}
             />
-            <button>
+            <Link to="/cart"><button>
               <i className="fa fa-shopping-bag" /> ADD TO CART
             </button>
+            </Link>
+            
           </form>
           <ul>
             <li>

@@ -21,9 +21,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-01.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
@@ -35,9 +35,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-02.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
@@ -49,9 +49,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-03.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
@@ -63,9 +63,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-04.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
@@ -77,9 +77,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-05.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
@@ -91,9 +91,9 @@ function MostPlayed() {
         <div className="col-lg-2 col-md-6 col-sm-6">
           <div className="item">
             <div className="thumb">
-              <a href="product-details.html">
+              <Link to="/details">
                 <img src="assets/images/top-game-06.jpg" alt="" />
-              </a>
+              </Link>
             </div>
             <div className="down-content">
               <span className="category">Adventure</span>
