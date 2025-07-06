@@ -56,8 +56,8 @@ function Cart() {
                                 Looks like you haven't added any games to your cart yet.<br/>
                                 Browse our collection and find your next gaming adventure!
                             </p>
-                            <Link to="/shop" className="btn btn-primary">
-                                <i className="fa fa-gamepad me-2"></i>
+                            <Link to="/shop" className="btn btn-primary shakeAnimate">
+                                <i className="fa fa-gamepad me-2 "></i>
                                 Start Shopping
                             </Link>
                         </div>
